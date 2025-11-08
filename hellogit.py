@@ -1,3 +1,3 @@
 """Aprendiendo a usar Git"""
 
-print("Hello Git")
+print("New Hello Git")
